@@ -32,7 +32,6 @@ Package: python-jsonschema
 Architecture: all
 Depends:
  python-functools32,
- python-mock,
  python3-pkg-resources,
  ${misc:Depends},
  ${python:Depends},
